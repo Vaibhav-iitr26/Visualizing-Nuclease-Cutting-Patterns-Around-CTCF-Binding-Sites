@@ -81,7 +81,7 @@ Column 3 > Occurances for Column_1 - Column_2 pair
 
 ## Interpretation of the V-plot
 
-  The file vplot.png included in this repository is an example of the V-shaped pattern generated from the processed matrix. 
+  The file `vplot.png` included in this repository is an example of the V-shaped pattern generated from the processed matrix. 
   This shape reflects the biological principle that DNA near a bound protein is protected and therefore produces shorter fragments,
   while DNA farther away is more accessible and produces longer fragments. 
   This dataset therefore allows us to visualize the local DNA-protection footprint created by protein binding.
